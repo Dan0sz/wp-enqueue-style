@@ -13,7 +13,7 @@ defined('ABSPATH') || exit;
 
 function daan_dev_enqueue_google_fonts()
 {
-	wp_enqueue_style('daan-dev-google-fonts-1', 'https://fonts.googleapis.com/css?family=Poppins');
+    wp_enqueue_style('daan-dev-google-fonts-1', 'https://fonts.googleapis.com/css?family=Poppins');
 	/** 
 	 *  Make sure you use a unique handle for every stylesheet you use and avoid generic words to not clash with your theme and/or plugins, 
 	 *  e.g. daan-dev-google-fonts, daan-dev-google-fonts-2, daan-dev-google-fonts-3, etc.
