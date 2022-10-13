@@ -2,7 +2,7 @@
 defined('ABSPATH') || exit;
 
 /**
- * Plugin Name: Enqueue Google Fonts
+ * Plugin Name: OMGF - Enqueue Google Fonts
  * Plugin URI: https://daan.dev/docs/omgf-pro/remove-async-google-fonts/
  * Description: This plugin enqueues your Google Fonts stylesheets that were removed by the Remove Async Google Fonts option, so OMGF Pro can replace them with local versions.
  * Version: 1.0.0
